@@ -1,10 +1,8 @@
-# 🚀 Quick Start Guide - GenAI Tutorials
-
-Get up and running with Google's Generative AI in 5 minutes!
+# 🚀 Quick Start  
 
 ## ⚡ Super Quick Setup
 
-### 1. Install Python
+### 1. Install Python (if not)
 - Download from [python.org](https://python.org)
 - Make sure to check "Add Python to PATH" during installation
 
@@ -43,9 +41,3 @@ python tutorial01.py
 - **API Key Issues**: Check your `keys.txt` file format
 - **Import Errors**: Run `pip install google-genai` again
 - **Full Guide**: Read `DEVELOPMENT_GUIDE.md` for detailed explanations
-
-## 🎉 You're Ready!
-
-Start with `tutorial01.py` and work your way up. Each tutorial builds on the previous one, so don't skip ahead!
-
-Happy coding! 🚀

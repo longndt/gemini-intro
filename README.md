@@ -1,8 +1,8 @@
-# 🚀 GenAI Tutorials
+# 🚀 Gemini Tutorials
 
-## 📚 What's Inside
+## 📚 What's Inside ?
 
-This collection contains **8 progressive tutorials** that teach you how to build AI-powered applications:
+This collection contains **8 progressive tutorials** that teach you how to build AI-powered applications with Gemini API:
 
 - 🤖 **Basic AI Chat** - Simple AI conversations
 - 💬 **AI with Memory** - Conversations that remember context
