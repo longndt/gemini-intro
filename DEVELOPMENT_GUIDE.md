@@ -615,11 +615,4 @@ pip install google-genai
 - **Document Summarizer**: AI that creates summaries of long documents
 - **Personal Finance Advisor**: AI that helps with budgeting and financial planning
 
-### Resources for Further Learning
-- [Google AI Studio Documentation](https://ai.google.dev/docs)
-- [Python Official Tutorial](https://docs.python.org/3/tutorial/)
-- [Tkinter GUI Tutorial](https://docs.python.org/3/library/tkinter.html)
-- [API Integration Best Practices](https://developers.google.com/apis)
-- [AI Ethics and Safety](https://ai.google/responsibility/)
-
 ---
