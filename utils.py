@@ -1,4 +1,4 @@
-# Utility functions for the intro_gemini package
+# Utility functions
 # read keys.txt to get the key
 def get_key(model='gemini'):
     with open('keys.txt') as f:
