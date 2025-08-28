@@ -1,4 +1,4 @@
-# 🚀 Quick Start  
+# 🚀 Quick Start
 
 ## ⚡ Super Quick Setup
 
@@ -12,7 +12,7 @@ pip install google-genai pillow PyPDF2 requests
 ```
 
 ### 3. Get Your API Key
-- Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
+- Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 - Create a new API key
 - Copy the key
 
