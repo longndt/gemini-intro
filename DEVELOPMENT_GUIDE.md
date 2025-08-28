@@ -21,7 +21,7 @@
 
 ### What You Need
 - **Python 3.8 or higher** installed on your computer
-- **Google Gemini API key** (get it from [Google AI Studio](https://makersuite.google.com/app/apikey))
+- **Google Gemini API key** (get it from [Google AI Studio](https://aistudio.google.com/app/apikey))
 - **Basic Python knowledge** (variables, functions, loops, imports)
 
 ### Initial Setup
@@ -68,7 +68,7 @@ your-project/
 ### How It Works
 ```python
 # 1. Import necessary libraries
-from intro_gemini.utils import get_key
+from utils import get_key
 from google import genai
 
 # 2. Create a client connection
@@ -623,4 +623,3 @@ pip install google-genai
 - [AI Ethics and Safety](https://ai.google/responsibility/)
 
 ---
- 
